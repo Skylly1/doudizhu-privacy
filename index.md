@@ -8,7 +8,7 @@
 
 ### 应用信息
 
-- **应用名称**：roguelike x 斗地主
+- **应用名称**：Roguelike x 斗地主
 - **Bundle ID**：com.hongzeng.doudizhu
 - **开发者**：独立开发者
 
@@ -16,7 +16,7 @@
 
 **本应用不收集任何个人身份信息。**
 
-roguelike x 斗地主是一款单机 Roguelike 斗地主卡牌游戏。无需注册或登录账户，不收集姓名、邮箱、电话号码等个人信息，不使用 ATT（App Tracking Transparency）或 IDFA 追踪，不投放任何广告。
+Roguelike x 斗地主是一款单机 Roguelike 斗地主卡牌游戏。无需注册或登录账户，不收集姓名、邮箱、电话号码等个人信息，不使用 ATT（App Tracking Transparency）或 IDFA 追踪，不投放任何广告。
 
 ### 分析与崩溃报告
 
@@ -61,7 +61,7 @@ roguelike x 斗地主是一款单机 Roguelike 斗地主卡牌游戏。无需注
 
 ### App Information
 
-- **App Name**: roguelike x 斗地主
+- **App Name**: Roguelike x 斗地主
 - **Bundle ID**: com.hongzeng.doudizhu
 - **Developer**: Individual developer
 
@@ -69,7 +69,7 @@ roguelike x 斗地主是一款单机 Roguelike 斗地主卡牌游戏。无需注
 
 **This app does not collect any personally identifiable information.**
 
-roguelike x 斗地主 is a single-player Roguelike Doudizhu card game. No account registration or login is required. We do not collect names, emails, phone numbers, or any personal information. We do not use ATT (App Tracking Transparency) or IDFA tracking. We do not serve any advertisements.
+Roguelike x 斗地主 is a single-player Roguelike Doudizhu card game. No account registration or login is required. We do not collect names, emails, phone numbers, or any personal information. We do not use ATT (App Tracking Transparency) or IDFA tracking. We do not serve any advertisements.
 
 ### Analytics & Crash Reporting
 
